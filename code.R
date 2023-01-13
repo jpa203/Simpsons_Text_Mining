@@ -8,7 +8,7 @@ library(RColorBrewer)
 library(forcats)
 library(stringr)
 
-simp <- read.csv('/Users/jazzopardi/Desktop/R/699/Assignment5/simpsons_script_lines.csv')
+simp <- read.csv('/Users/jazzopardi/Desktop/simpsons_script_lines.csv')
 
 View(simp)
 
